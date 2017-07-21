@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "WhmcsSI\\": "senikz/whmcs-sentry-exceptions/src"
+            "WhmcsSI\\": "src"
         }
     }
 }
