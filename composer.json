@@ -7,6 +7,7 @@
             "email": "serjikz123@gmail.com"
         }
     ],
+	"license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
