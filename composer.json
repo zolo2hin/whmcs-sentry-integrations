@@ -1,0 +1,16 @@
+{
+    "name": "senikz/whmcs-sentry-integrations",
+    "description": "Provides the simplest way to integrate your WHMCS project with Sentry",
+    "authors": [
+        {
+            "name": "Sergey Zolotukhin",
+            "email": "serjikz123@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WhmcsSI": "senikz/whmcs-sentry-exceptions/src",
+        }
+    }
+}
