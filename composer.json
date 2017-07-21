@@ -8,7 +8,9 @@
         }
     ],
 	"license": "MIT",
-    "require": {},
+    "require": {
+		"sentry/sentry": "^1.7"
+	},
     "autoload": {
         "psr-4": {
             "WhmcsSI\\": "src"
